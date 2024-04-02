@@ -1,0 +1,11 @@
+References
+
+W3 Schools
+https://www.w3schools.com/java/java_foreach_loop.asp
+https://www.w3schools.com/java/java_constructors.asp
+
+Geeks for Geeks
+https://www.geeksforgeeks.org/constructors-in-java/
+
+Wilkenson Hilarion also assisted with an erro message. He assisted in debuging an error message 
+involving the subclasses and constructors.
